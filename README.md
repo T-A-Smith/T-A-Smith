@@ -2,7 +2,7 @@
   
 <h2> :woman_technologist: Cybersecurity Projects</h2>
 <ul class="a">
-  <li><b>Wireshark Practice</b>: <i>Malware Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main
+  <li><b>Wireshark Practice</b>: <i>Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main
   <li><b>Nessus Practice</b>:<i>Vulnerability Scanning & Management</i></li>
   <li><b>SIEM Practice</b></li>
   </ul> 
