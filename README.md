@@ -15,6 +15,11 @@
 * CompTIA Project+: https://www.credly.com/badges/3a8b3046-1c62-4b72-a1f1-e15d2edcc25b/public_url
 * CompTIA CySA+: https://www.credly.com/badges/bf30dac7-1fae-4a68-a901-025752613304/public_url 
 * CompTIA PenTest+: https://www.credly.com/badges/8273c569-e869-432f-a299-4557dd29883e/public_url
+* CompTIA Network Security Professional - CNSP
+* CompTIA Network Vulnerability Assessment Professional - CNVP
+* CompTIA Security Analytics Professional – CSAP
+* CompTIA Secure Infrastructure Specialist – CSIS
+* CompTIA IT Operations Specialist – CIOS
 
 
 
