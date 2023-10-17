@@ -1,24 +1,35 @@
-<h1>Hi, I'm Tashona! (Under Construction)
+<h1>Hi, I'm Tashona! (Site Under Construction 🔧)
 
 <h3>Portfolio Highlights:</h3>
 
 📁 <b>Project Showcase:</b> 
-  * A collection of personal cybersecurity projects, from network monitoring tools to vulnerability scanners.
+<br>   - A collection of personal cybersecurity projects, from network monitoring tools to vulnerability scanners.
     
 📔<b> Cyber Notes:</b> 
-* A repository of my curated cyber-related notes, including threat intelligence, best practices, and tips. Knowledge is power.
+<br>  - A repository of my curated cyber-related notes, including threat intelligence, best practices, and tips. Knowledge is power.
   
 📚<b> Cheatsheets:</b> 
-* Dive into my library of cheatsheets for quick reference on security concepts, commands, and more!
+<br>  - Dive into my library of cheatsheets for quick reference on security concepts, commands, and more!
+
+<br> 
 
   
-<h2> :woman_technologist: Cybersecurity Projects</h2>
-<ul class="a">
-  <li><b>Wireshark Practice</b>: <i>Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main
+<h2> 👩‍💻 Cybersecurity Projects</h2>
+ <ul class="a">
+  <li><b>Wireshark Practice</b>: <i>Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main <br> 
 
 
-<h2>Cybersecurity Notes</h2>
-  </ul> 
+<br> 
+
+<h2> 📓 Notes </h2>
+ 
+
+<br> 
+
+<h2>💎 Cheatsheets</h2>
+
+<br> 
+  
  <h2><b> :trophy: Certifications:</b></h2>
 
 *  [CompTIA A+](https://www.credly.com/badges/6422f362-3afc-4e85-bb25-0f773b4d8489/public_url)
