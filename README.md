@@ -15,18 +15,17 @@
 
   
 <h2> 👩‍💻 Cybersecurity Projects</h2>
- <ul class="a">
-  <li><b>Wireshark Practice</b>: <i>Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main <br> 
+ <li> <b>Wireshark:</b> <i>Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main</li> 
+ <li> <b>PFSense</b></li>
+
+<br> 
+     
+<h2> 📓 Notes</h2>
 
 
 <br> 
 
-<h2> 📓 Notes </h2>
- 
-
-<br> 
-
-<h2>💎 Cheatsheets</h2>
+<h2>💎Cheatsheets</h2>
 
 <br> 
   
