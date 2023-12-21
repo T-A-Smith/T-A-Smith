@@ -14,7 +14,7 @@
 <br> 
 
   
-<h2> 👩‍💻 Cybersecurity Projects</h2>
+<h2> 👩‍💻 Cybersecurity</h2>
  <li> <b>Wireshark:</b> <i>Traffic Analysis Projects</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main</li> 
  <li> <b>pfSense: </b><i>Firewall Projects</i> https://github.com/T-A-Smith/pfSense-Practice/tree/main</li>
  <li> <b>Metasploitable 2: </b><i>Pentesting Projects</i></li>
@@ -23,6 +23,8 @@
   <li> <i>Vulnerability Scanning & Analysis Projects </i></li>
 
 <br> 
+
+<h2> :computer: Scripting/Programming Practice</h2>
      
 <h2> 📓 Notes</h2>
 
