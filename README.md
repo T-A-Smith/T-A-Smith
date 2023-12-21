@@ -6,7 +6,7 @@
 <br>   - A collection of personal cybersecurity projects, from network monitoring tools to vulnerability scanners.
     
 📔<b> Cyber Notes:</b> 
-<br>  - A repository of my curated cyber-related notes, including threat intelligence, best practices, and tips. Knowledge is power.
+<br>  - A repository of my curated cyber-related notes, including best practices and tips. Knowledge is power.
   
 📚<b> Cheatsheets:</b> 
 <br>  - Dive into my library of cheatsheets for quick reference on security concepts, commands, and more!
@@ -19,7 +19,8 @@
  <li> <b>pfSense: </b><i>Firewall Projects</i> https://github.com/T-A-Smith/pfSense-Practice/tree/main</li>
  <li> <b>Metasploitable 2: </b><i>Pentesting Projects</i></li>
  <li> <b>Security Onion: </b><i>IPS/IDS & SIEM Projects</i></li>
- <li> <b>Windows 10: </b></li>
+ <li> <i>Windows 10 Projects </i></li>
+  <li> <i>Vulnerability Scanning & Analysis Projects </i></li>
 
 <br> 
      
