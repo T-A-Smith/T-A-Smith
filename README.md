@@ -15,8 +15,11 @@
 
   
 <h2> 👩‍💻 Cybersecurity Projects</h2>
- <li> <b>Wireshark:</b> <i>Traffic Analysis</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main</li> 
- <li> <b>PFSense</b></li>
+ <li> <b>Wireshark:</b> <i>Traffic Analysis Projects</i>  https://github.com/T-A-Smith/Wireshark-Practice/tree/main</li> 
+ <li> <b>pfSense: </b><i>Firewall Projects</i> https://github.com/T-A-Smith/pfSense-Practice/tree/main</li>
+ <li> <b>Metasploitable 2: </b><i>Pentesting Projects</i></li>
+ <li> <b>Security Onion: </b><i>IPS/IDS & SIEM Projects</i></li>
+ <li> <b>Windows 10: </b></li>
 
 <br> 
      
