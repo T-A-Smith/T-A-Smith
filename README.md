@@ -19,8 +19,8 @@
  <li> <b>pfSense: </b><i>Firewall Projects</i> https://github.com/T-A-Smith/pfSense-Practice/tree/main</li>
  <li> <b>Metasploitable 2: </b><i>Pentesting Projects</i></li>
  <li> <b>Security Onion: </b><i>IPS/IDS & SIEM Projects</i></li>
- <li> <i>Windows 10 Projects </i></li>
-  <li> <i>Vulnerability Scanning & Analysis Projects </i></li>
+ <li> <i><b>Windows Projects </b></i></li>
+  <li> <i><b>Vulnerability Scanning & Analysis Projects</b></i></li>
 
 <br> 
 
@@ -32,6 +32,9 @@
 <br> 
 
 <h2>💎Cheatsheets</h2>
+
+* [Common Ports and Protocols](https://github.com/T-A-Smith/T-A-Smith/files/13802504/Common.Ports.and.Protocols.pdf)
+
 
 <br> 
   
